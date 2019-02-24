@@ -1,0 +1,26 @@
+
+	.header {   }
+	.logo { padding:10px 0; position:relative; overflow:hidden;}
+	.motto{ position:absolute; right:20%; bottom:30%;  }
+	.divider { border-top:3px solid #2f93cf; }
+	.login { color:gray; display:inline-block; background-color:white; margin-top:-10px; padding:0 10px;}
+	.login:hover { color:#2f93cf; text-decoration: none; }
+
+    .nav li { padding:5px 15px;   }
+	.nav a { color:black; font-size: 15px; }
+	.nav a:hover { color:#2f93cf; text-decoration: none; }
+	.nav.hidden-xs { display:inline-block; position:absolute; left:50%; margin-left:-411px;}
+
+	.block {  }
+	.block-title { border-bottom:2px solid gray; padding:10px 0; font-weight:bolder; }
+	.block-more { float:right; color:#2f93cf !important; }
+	.block-list { margin:10px 0; }
+	.block-list li { padding:7px 0; }
+	.item-title { overflow:hidden; text-overflow:ellipsis; white-space: nowrap; }
+	.item-title a{ color:black;}
+	.item-title a:hover { color:#2f93cf; }
+	.item-date { color:gray; white-space:nowrap; text-align:right; }
+	
+	.banner { margin-top:52px; }
+
+	.footer { margin-top:10px; padding:20px 0; text-align:center; color:white; background-color:#2f75b9; }
